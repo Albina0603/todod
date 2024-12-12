@@ -50,6 +50,13 @@
       "when": 1734020277121,
       "tag": "0006_colossal_elektra",
       "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1734020506715,
+      "tag": "0007_loving_warlock",
+      "breakpoints": true
     }
   ]
 }
