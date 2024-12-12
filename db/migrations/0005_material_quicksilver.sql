@@ -1,0 +1,1 @@
+ALTER TABLE "todo" ALTER COLUMN "user" SET DEFAULT 'Asanovaalbina03';

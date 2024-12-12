@@ -29,6 +29,27 @@
       "when": 1734019089309,
       "tag": "0003_shocking_princess_powerful",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1734019384032,
+      "tag": "0004_foamy_puppet_master",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1734019513522,
+      "tag": "0005_material_quicksilver",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1734020277121,
+      "tag": "0006_colossal_elektra",
+      "breakpoints": true
     }
   ]
 }
