@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1734013576257,
+      "tag": "0000_cloudy_living_lightning",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1734014219402,
+      "tag": "0001_abandoned_zaladane",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1734014517238,
+      "tag": "0002_talented_justin_hammer",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1734019089309,
+      "tag": "0003_shocking_princess_powerful",
+      "breakpoints": true
+    }
+  ]
+}

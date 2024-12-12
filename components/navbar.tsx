@@ -36,7 +36,7 @@ export function Navbar() {
         </div>
 
         <div className="flex items-center space-x-4">
-          <span className="text-sm font-medium">Hi, {session?.user.name}</span>
+          <span className="text-sm font-medium">Hi, {session?.user.email}</span>
           <Button className="w-full" onClick={() => signOut()}>
             Sign Out
           </Button>
